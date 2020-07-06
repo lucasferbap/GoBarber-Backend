@@ -9,4 +9,5 @@ temp/
 .env
 ormconfig.json
 dist
+coverage
 
